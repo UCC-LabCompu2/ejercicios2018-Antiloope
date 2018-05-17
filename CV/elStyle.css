@@ -3,7 +3,6 @@ body {
     font-family: 'Oswald', sans-serif;
     font-size: 150%;
     background-image: linear-gradient(to top, #008808, #99201d);
-    /*background-image: conic-gradient(to right, #008808, #fcfeff);*/
 }
 
 div {
